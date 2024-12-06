@@ -1,0 +1,13 @@
+requirements:
+numpy
+pandas
+matplotlib
+seaborn
+flask
+memory_profiler
+streamlit
+scikit-learn
+keras
+tensorflow
+matplotlib
+tensorboard
